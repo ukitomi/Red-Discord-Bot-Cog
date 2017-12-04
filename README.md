@@ -7,3 +7,9 @@ Programmed in Python 3, these codes are my introduction to python lesson code th
 
 ## Running the Tests
 Once successfully download the Red Discord Bot, ![follow here](https://twentysix26.github.io/Red-Docs/red_getting_started/) to pull the cogs that I developed!
+
+## Built with
+* Python 3 - The program framework
+
+## Author
+* ![Yuki Ou](https://github.com/ukitomi)
